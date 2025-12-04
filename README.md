@@ -1,6 +1,6 @@
-# Data Structures & Algorithms in C  
+# 🖥️ Data Structures in C  
 
-This repository contains my work and learning experiences from the **EEK Data Structures in C** course. Throughout the semester, I explored the fundamentals of C programming and built a strong foundation in various data structures and algorithms.  
+This repository contains my work and learning experiences from the **Data Structures in C** course. Throughout the semester, I explored the fundamentals of C programming and built a strong foundation in various data structures and algorithms.  
 
 The course started with an introduction to C programming concepts, including compiling and executing programs. I learned about program structure, syntax, data types, variables, operators, expressions, and flow control. These fundamentals allowed me to write efficient and structured programs.  
 
