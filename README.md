@@ -1,4 +1,4 @@
-# 🖥️ EEK Course: Data Structures in C  
+# Data Structures & Algorithms in C  
 
 This repository contains my work and learning experiences from the **EEK Data Structures in C** course. Throughout the semester, I explored the fundamentals of C programming and built a strong foundation in various data structures and algorithms.  
 
